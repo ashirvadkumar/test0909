@@ -4,5 +4,9 @@ for git fetch
 
 
 
+<<<<<<< HEAD
 
 data into br2 222
+=======
+adding data in br1
+>>>>>>> br1
